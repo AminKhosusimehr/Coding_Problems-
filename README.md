@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Language-Python-blue" alt="Language">
-  <img src="https://img.shields.io/badge/Problems-Solved%3A%207-orange" alt="Problems Solved">
+  <img src="https://img.shields.io/badge/Problems-Solved%3A%208-orange" alt="Problems Solved">
   <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Status">
 </p>
 
